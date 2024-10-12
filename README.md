@@ -1,5 +1,5 @@
 # leetcode-journey
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+To reach big tech, one must solve a few LeetCodes each day, for consistency paves the path to mastery
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
