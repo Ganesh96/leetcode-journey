@@ -7,11 +7,13 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0001-two-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Ganesh96/leetcode-journey/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Ganesh96/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Ganesh96/leetcode-journey/tree/master/0907-koko-eating-bananas) |
 ## Math
 |  |
