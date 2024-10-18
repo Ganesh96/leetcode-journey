@@ -8,6 +8,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0001-two-sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0001-two-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0907-koko-eating-bananas](https://github.com/Ganesh96/leetcode-journey/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Ganesh96/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
@@ -31,10 +32,12 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/Ganesh96/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/Ganesh96/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -44,6 +47,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0001-two-sum) |
+| [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 ## Recursion
 |  |
 | ------- |
@@ -64,4 +68,12 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ganesh96/leetcode-journey/tree/master/0207-course-schedule) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
