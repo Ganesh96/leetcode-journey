@@ -1,29 +1,11 @@
 class Solution:
-    def path(self, root: Optional[TreeNode], ans: List[int], x: int) -> bool:
-        if root is None:
-            return False
+  def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+    if not root or root == p or root == q:
+      return root
 
-        ans.append(root.val)
+    l = self.lowestCommonAncestor(root.left, p, q)
+    r = self.lowestCommonAncestor(root.right, p, q)
 
-        if root.val == x:
-            return True
-
-        if self.path(root.left, ans, x) or self.path(root.right, ans, x):
-            return True
-
-        ans.pop()
-        return False
-
-    def lowestCommonAncestor(self, root: Optional[TreeNode], p: TreeNode, q: TreeNode) -> TreeNode:
-        pathp, pathq = [], []
-
-        self.path(root, pathp, p.val)
-        self.path(root, pathq, q.val)
-
-        i = 0
-        while i < len(pathp) and i < len(pathq):
-            if pathp[i] != pathq[i]:
-                break
-            i += 1
-
-        return TreeNode(pathp[i - 1])
+    if l and r:
+      return root
+    return l or r
