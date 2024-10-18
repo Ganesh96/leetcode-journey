@@ -19,6 +19,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ganesh96/leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Ganesh96/leetcode-journey/tree/master/0050-powx-n) |
 | [1014-k-closest-points-to-origin](https://github.com/Ganesh96/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
@@ -51,6 +52,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ganesh96/leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Ganesh96/leetcode-journey/tree/master/0050-powx-n) |
 ## Depth-First Search
 |  |
@@ -76,4 +78,8 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ganesh96/leetcode-journey/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
