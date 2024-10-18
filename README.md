@@ -55,6 +55,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0001-two-sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh96/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ganesh96/leetcode-journey/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Ganesh96/leetcode-journey/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ganesh96/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0567-permutation-in-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
@@ -96,6 +97,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ganesh96/leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ganesh96/leetcode-journey/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Ganesh96/leetcode-journey/tree/master/0146-lru-cache) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ganesh96/leetcode-journey/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ganesh96/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -129,4 +132,8 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0567-permutation-in-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ganesh96/leetcode-journey/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
