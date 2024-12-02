@@ -23,4 +23,7 @@ class Solution:
                 p = num//k
                 res += s * p
                 num -= k * p
+            
         return res
+
+        
