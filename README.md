@@ -22,6 +22,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ganesh96/leetcode-journey/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Ganesh96/leetcode-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ganesh96/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Ganesh96/leetcode-journey/tree/master/0050-powx-n) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ganesh96/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
@@ -54,6 +55,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Ganesh96/leetcode-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ganesh96/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh96/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ganesh96/leetcode-journey/tree/master/0138-copy-list-with-random-pointer) |
@@ -103,6 +105,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ganesh96/leetcode-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ganesh96/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0567-permutation-in-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
