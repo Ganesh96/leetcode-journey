@@ -11,36 +11,26 @@
 
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
-        curr1 = list1
-        curr2 = list2
-        curr3 = None
-        prev = None
-        head = None
+        if list1 is None:
+            return list2
+        if list2 is None:
+            return list1
 
-        # Iterate while either list has elements
-        while curr1 or curr2:
-            smaller = ListNode()
-
-            # Choose the smaller value and create a new node
-            if curr1 and curr2:
-                if curr1.val < curr2.val:
-                    smaller.val = curr1.val
-                    curr1 = curr1.next
-                else:
-                    smaller.val = curr2.val
-                    curr2 = curr2.next
-            elif curr1:  # If only list1 has elements
-                smaller.val = curr1.val
-                curr1 = curr1.next
-            else:  # If only list2 has elements
-                smaller.val = curr2.val
-                curr2 = curr2.next
-
-            # Link the new node to the previous node and update prev and head
-            if prev:
-                prev.next = smaller
+        head = ListNode(0)
+        cur = head
+        
+        while list1 and list2:
+            if list1.val < list2.val:
+                cur.next = ListNode(list1.val)
+                list1 = list1.next
             else:
-                head = smaller
-            prev = smaller
-
-        return head
+                cur.next = ListNode(list2.val)
+                list2 = list2.next
+            cur = cur.next
+        
+        if list1:
+            cur.next = list1
+        if list2:
+            cur.next = list2
+        
+        return head.next
