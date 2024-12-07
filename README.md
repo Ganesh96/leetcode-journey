@@ -144,4 +144,8 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ganesh96/leetcode-journey/tree/master/0146-lru-cache) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Ganesh96/leetcode-journey/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
