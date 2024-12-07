@@ -148,4 +148,5 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Ganesh96/leetcode-journey/tree/master/0584-find-customer-referee) |
+| [1258-article-views-i](https://github.com/Ganesh96/leetcode-journey/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
