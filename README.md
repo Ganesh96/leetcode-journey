@@ -13,6 +13,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0907-koko-eating-bananas](https://github.com/Ganesh96/leetcode-journey/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Ganesh96/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ganesh96/leetcode-journey/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
 |  |
 | ------- |
