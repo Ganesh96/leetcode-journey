@@ -10,6 +10,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh96/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ganesh96/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/Ganesh96/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0907-koko-eating-bananas](https://github.com/Ganesh96/leetcode-journey/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Ganesh96/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
@@ -92,6 +93,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Ganesh96/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
 ## Counting
