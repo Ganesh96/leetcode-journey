@@ -111,6 +111,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0013-roman-to-integer](https://github.com/Ganesh96/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0567-permutation-in-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
+| [1894-merge-strings-alternately](https://github.com/Ganesh96/leetcode-journey/tree/master/1894-merge-strings-alternately) |
 ## Tree
 |  |
 | ------- |
@@ -136,6 +137,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0567-permutation-in-string) |
+| [1894-merge-strings-alternately](https://github.com/Ganesh96/leetcode-journey/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
