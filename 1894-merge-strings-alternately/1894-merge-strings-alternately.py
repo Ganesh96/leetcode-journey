@@ -8,9 +8,7 @@ class Solution:
             res.append(word2[q2])
             q1+=1
             q2+=1
-        if(q1<l1):
-            res.append(word1[q1:])
-        elif(q2<l2):
-            res.append(word2[q2:])
+        res.append(word1[q1:])
+        res.append(word2[q2:])
         return "".join(res)
 
