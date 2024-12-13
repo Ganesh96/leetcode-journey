@@ -143,6 +143,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0146-lru-cache](https://github.com/Ganesh96/leetcode-journey/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ganesh96/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [0969-number-of-recent-calls](https://github.com/Ganesh96/leetcode-journey/tree/master/0969-number-of-recent-calls) |
 ## Randomized
 |  |
 | ------- |
@@ -184,4 +185,12 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Ganesh96/leetcode-journey/tree/master/0338-counting-bits) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Ganesh96/leetcode-journey/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Ganesh96/leetcode-journey/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
