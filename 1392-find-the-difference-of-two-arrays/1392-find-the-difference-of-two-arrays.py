@@ -17,13 +17,9 @@ class Solution:
         # for k,v in f.items():
         #     r[v].append(k)
         # return r
-        N1 = set()
-        N2 = set()
+        N1 = set(nums1)
+        N2 = set(nums2)
         r = [[],[]]
-        for p in nums1:
-            N1.add(p)
-        for p in nums2:
-            N2.add(p)
         for n1 in N1-N2:
             r[0].append(n1)
         for n2 in N2-N1:
