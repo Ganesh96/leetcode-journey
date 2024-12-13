@@ -1,39 +1,26 @@
-class RecentCounter:
+from collections import deque
 
+class RecentCounter:
     def __init__(self):
-        self.recent_requests = list()
-        
+        """
+        Initializes the counter with zero recent requests.
+        """
+        self.requests = deque()  # Use a deque to store requests
 
     def ping(self, t: int) -> int:
-        self.recent_requests = [t] + self.recent_requests
-        anchor = 0
-        lower_limit = t-3000
+        """
+        Adds a new request at time t and returns the number of requests 
+        that have happened in the past 3000 milliseconds (including the new request).
+        """
+        self.requests.append(t)  # Add the new request time
 
-        if lower_limit > 0:
-            for time in self.recent_requests:
-                if time >= lower_limit:
-                    anchor+=1
-                else:
-                    break
-            del self.recent_requests[anchor:]
+        # Remove requests older than 3000 milliseconds
+        while self.requests and self.requests[0] < t - 3000:
+            self.requests.popleft()
 
-        return len(self.recent_requests)
+        return len(self.requests)  # Return the count of recent requests
 
-        #v1
-        # anchor = 0
-        # lower_limit = t-3000
 
-        # if lower_limit > 0:
-        #     for time in self.recent_requests:
-        #         if time<lower_limit:
-        #             anchor+=1
-        #         else:
-        #             break
-        #     del self.recent_requests[:anchor]
-
-        # return len(self.recent_requests)
-
-    
 # Your RecentCounter object will be instantiated and called as such:
 # obj = RecentCounter()
 # param_1 = obj.ping(t)
