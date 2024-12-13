@@ -17,6 +17,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [1014-k-closest-points-to-origin](https://github.com/Ganesh96/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1319-unique-number-of-occurrences](https://github.com/Ganesh96/leetcode-journey/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ganesh96/leetcode-journey/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1833-find-the-highest-altitude](https://github.com/Ganesh96/leetcode-journey/tree/master/1833-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,4 +166,8 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0584-find-customer-referee](https://github.com/Ganesh96/leetcode-journey/tree/master/0584-find-customer-referee) |
 | [1258-article-views-i](https://github.com/Ganesh96/leetcode-journey/tree/master/1258-article-views-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/Ganesh96/leetcode-journey/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
