@@ -25,6 +25,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Ganesh96/leetcode-journey/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Ganesh96/leetcode-journey/tree/master/0907-koko-eating-bananas) |
 ## Math
@@ -197,4 +198,8 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/Ganesh96/leetcode-journey/tree/master/0346-moving-average-from-data-stream) |
 | [0969-number-of-recent-calls](https://github.com/Ganesh96/leetcode-journey/tree/master/0969-number-of-recent-calls) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Ganesh96/leetcode-journey/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
