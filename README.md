@@ -10,6 +10,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh96/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ganesh96/leetcode-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0169-majority-element) |
+| [0346-moving-average-from-data-stream](https://github.com/Ganesh96/leetcode-journey/tree/master/0346-moving-average-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ganesh96/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Ganesh96/leetcode-journey/tree/master/0605-can-place-flowers) |
@@ -142,6 +143,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ganesh96/leetcode-journey/tree/master/0146-lru-cache) |
+| [0346-moving-average-from-data-stream](https://github.com/Ganesh96/leetcode-journey/tree/master/0346-moving-average-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ganesh96/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/Ganesh96/leetcode-journey/tree/master/0969-number-of-recent-calls) |
 ## Randomized
@@ -188,9 +190,11 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 ## Queue
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/Ganesh96/leetcode-journey/tree/master/0346-moving-average-from-data-stream) |
 | [0969-number-of-recent-calls](https://github.com/Ganesh96/leetcode-journey/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/Ganesh96/leetcode-journey/tree/master/0346-moving-average-from-data-stream) |
 | [0969-number-of-recent-calls](https://github.com/Ganesh96/leetcode-journey/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
