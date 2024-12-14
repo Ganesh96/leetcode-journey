@@ -28,6 +28,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0035-search-insert-position](https://github.com/Ganesh96/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Ganesh96/leetcode-journey/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Ganesh96/leetcode-journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Ganesh96/leetcode-journey/tree/master/0907-koko-eating-bananas) |
 ## Math
@@ -210,4 +211,5 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Ganesh96/leetcode-journey/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Ganesh96/leetcode-journey/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
