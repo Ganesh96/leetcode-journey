@@ -7,6 +7,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Ganesh96/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh96/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ganesh96/leetcode-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0169-majority-element) |
@@ -25,6 +26,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ganesh96/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Ganesh96/leetcode-journey/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Ganesh96/leetcode-journey/tree/master/0907-koko-eating-bananas) |
