@@ -145,12 +145,14 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ganesh96/leetcode-journey/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ganesh96/leetcode-journey/tree/master/0904-leaf-similar-trees) |
 ## Design
 |  |
@@ -215,4 +217,8 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0278-first-bad-version](https://github.com/Ganesh96/leetcode-journey/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ganesh96/leetcode-journey/tree/master/0374-guess-number-higher-or-lower) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
