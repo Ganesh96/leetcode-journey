@@ -8,8 +8,7 @@ class MovingAverage:
     def next(self, val: int) -> float:
         L = len(self.data_stream)
         if L==self.size:
-            self.total-=self.data_stream[0]
-            self.data_stream.popleft()
+            self.total-=self.data_stream.popleft()
             self.data_stream.append(val)
             self.total+=self.data_stream[-1]
         else:
