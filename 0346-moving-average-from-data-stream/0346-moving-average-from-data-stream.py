@@ -1,21 +1,19 @@
 class MovingAverage:
 
     def __init__(self, size: int):
-        self.data_stream = deque()
         self.size = size
-        self.total = 0
-
+        self.data = deque()
     def next(self, val: int) -> float:
-        L = len(self.data_stream)
-        if L==self.size:
-            self.total-=self.data_stream.popleft()
-            self.data_stream.append(val)
-            self.total+=self.data_stream[-1]
-        else:
-            self.data_stream.append(val)
-            self.total+=val
-            L+=1
-        return self.total if L==1 else self.total/L
+        self.data.append(val)
+        L = len(self.data)#4
+        summed = 0
+        while self.data and L > self.size:
+              self.data.popleft()
+              L-=1
+        summed = sum(self.data)
+        return summed/L
+        
+        
 
 
 # Your MovingAverage object will be instantiated and called as such:
