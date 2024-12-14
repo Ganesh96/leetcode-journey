@@ -96,6 +96,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Ganesh96/leetcode-journey/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Ganesh96/leetcode-journey/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -144,11 +145,13 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Ganesh96/leetcode-journey/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Ganesh96/leetcode-journey/tree/master/0904-leaf-similar-trees) |
 ## Design
 |  |
 | ------- |
