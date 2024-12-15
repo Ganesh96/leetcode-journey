@@ -11,6 +11,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh96/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ganesh96/leetcode-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Ganesh96/leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [0346-moving-average-from-data-stream](https://github.com/Ganesh96/leetcode-journey/tree/master/0346-moving-average-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ganesh96/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
@@ -194,6 +195,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Ganesh96/leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/Ganesh96/leetcode-journey/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Ganesh96/leetcode-journey/tree/master/2102-find-the-middle-index-in-array) |
 ## Bit Manipulation
