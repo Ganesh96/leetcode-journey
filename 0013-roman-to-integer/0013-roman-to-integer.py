@@ -20,5 +20,4 @@ class Solution:
             else:
                 total += value
             prev_value = value
-
         return total
