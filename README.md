@@ -96,6 +96,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh96/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ganesh96/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Ganesh96/leetcode-journey/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ganesh96/leetcode-journey/tree/master/0617-merge-two-binary-trees) |
@@ -151,6 +152,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh96/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ganesh96/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ganesh96/leetcode-journey/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0783-search-in-a-binary-search-tree) |
@@ -160,6 +162,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh96/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ganesh96/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ganesh96/leetcode-journey/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0783-search-in-a-binary-search-tree) |
@@ -239,4 +242,5 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ganesh96/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh96/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ganesh96/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
