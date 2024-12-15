@@ -4,7 +4,7 @@ class Solution:
             return x
         
         left = 2
-        right = x//2
+        right = x
         while(left<=right):
             root = int((left+right)/2)
             if root*root>x:
