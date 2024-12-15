@@ -8,6 +8,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0001-two-sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Ganesh96/leetcode-journey/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Ganesh96/leetcode-journey/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh96/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ganesh96/leetcode-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0169-majority-element) |
@@ -39,6 +40,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0002-add-two-numbers](https://github.com/Ganesh96/leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Ganesh96/leetcode-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ganesh96/leetcode-journey/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Ganesh96/leetcode-journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ganesh96/leetcode-journey/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Ganesh96/leetcode-journey/tree/master/0069-sqrtx) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ganesh96/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
@@ -245,4 +247,8 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0020-valid-parentheses](https://github.com/Ganesh96/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh96/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ganesh96/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Ganesh96/leetcode-journey/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
