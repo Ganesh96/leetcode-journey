@@ -186,6 +186,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/Ganesh96/leetcode-journey/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Ganesh96/leetcode-journey/tree/master/0584-find-customer-referee) |
 | [1258-article-views-i](https://github.com/Ganesh96/leetcode-journey/tree/master/1258-article-views-i) |
 ## Prefix Sum
