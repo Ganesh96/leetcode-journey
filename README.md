@@ -25,6 +25,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ganesh96/leetcode-journey/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/Ganesh96/leetcode-journey/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Ganesh96/leetcode-journey/tree/master/2102-find-the-middle-index-in-array) |
+| [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Ganesh96/leetcode-journey/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 ## Binary Search
 |  |
 | ------- |
@@ -258,4 +259,9 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ganesh96/leetcode-journey/tree/master/0048-rotate-image) |
+| [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Ganesh96/leetcode-journey/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
+## Simulation
+|  |
+| ------- |
+| [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Ganesh96/leetcode-journey/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 <!---LeetCode Topics End-->
