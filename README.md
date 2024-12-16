@@ -90,6 +90,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
 | [1319-unique-number-of-occurrences](https://github.com/Ganesh96/leetcode-journey/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Ganesh96/leetcode-journey/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2475-largest-palindromic-number](https://github.com/Ganesh96/leetcode-journey/tree/master/2475-largest-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +128,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0605-can-place-flowers](https://github.com/Ganesh96/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
+| [2475-largest-palindromic-number](https://github.com/Ganesh96/leetcode-journey/tree/master/2475-largest-palindromic-number) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/Ganesh96/leetcode-journey/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 ## Counting
 |  |
@@ -134,6 +136,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0169-majority-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
+| [2475-largest-palindromic-number](https://github.com/Ganesh96/leetcode-journey/tree/master/2475-largest-palindromic-number) |
 ## Linked List
 |  |
 | ------- |
@@ -156,6 +159,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ganesh96/leetcode-journey/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ganesh96/leetcode-journey/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1894-merge-strings-alternately](https://github.com/Ganesh96/leetcode-journey/tree/master/1894-merge-strings-alternately) |
+| [2475-largest-palindromic-number](https://github.com/Ganesh96/leetcode-journey/tree/master/2475-largest-palindromic-number) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/Ganesh96/leetcode-journey/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 ## Tree
 |  |
