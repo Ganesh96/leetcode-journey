@@ -98,6 +98,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0021-merge-two-sorted-lists](https://github.com/Ganesh96/leetcode-journey/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Ganesh96/leetcode-journey/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ganesh96/leetcode-journey/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0394-decode-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -154,6 +155,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0125-valid-palindrome](https://github.com/Ganesh96/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ganesh96/leetcode-journey/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -259,6 +261,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0020-valid-parentheses](https://github.com/Ganesh96/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ganesh96/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ganesh96/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0394-decode-string) |
 ## Matrix
 |  |
 | ------- |
