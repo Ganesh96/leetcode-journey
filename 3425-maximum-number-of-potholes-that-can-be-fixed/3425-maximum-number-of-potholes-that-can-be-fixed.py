@@ -17,18 +17,25 @@ class Solution:
         print(potholes)
 
         repaired_potholes = 0
-        while potholes:
-            block_size = -heapq.heappop(potholes)
-            repair_cost = block_size + 1
-            if repair_cost <= budget:
-                budget -= repair_cost
-                repaired_potholes += block_size
-            else:
-                max_k = min(block_size, budget - 1)
-                if max_k <= 0:
-                    break
-                repaired_potholes += max_k
-                budget -= (max_k + 1) 
-                break 
+        # while potholes:
+        #     block_size = -heapq.heappop(potholes)
+        #     repair_cost = block_size + 1
+        #     if repair_cost <= budget:
+        #         budget -= repair_cost
+        #         repaired_potholes += block_size
+        #     else:
+        #         max_k = min(block_size, budget - 1)
+        #         if max_k <= 0:
+        #             break
+        #         repaired_potholes += max_k
+        #         budget -= (max_k + 1) 
+        #         break 
 
-        return repaired_potholes
+        # return repaired_potholes
+        result = 0
+        while potholes and budget:
+            seg =  -heapq.heappop(potholes)
+            fix = min(seg, budget - 1)
+            result += fix
+            budget -= fix + 1
+        return result
