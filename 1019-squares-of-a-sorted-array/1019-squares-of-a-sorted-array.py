@@ -6,13 +6,13 @@ class Solution:
         right = L
         while(left<=right):
             if(abs(nums[left])>abs(nums[right])):
-                new_f = [nums[left]] + new_f
+                new_f = [nums[left]**2] + new_f
                 left+=1
             elif(left!=right and abs(nums[left])==abs(nums[right])):
-                new_f = [nums[left],nums[right]] + new_f
+                new_f = [nums[left]**2]*2 + new_f
                 left+=1
                 right-=1
             else:
-                new_f = [nums[right]] + new_f
+                new_f = [nums[right]**2] + new_f
                 right-=1               
-        return [f**2 for f in new_f]
+        return new_f
