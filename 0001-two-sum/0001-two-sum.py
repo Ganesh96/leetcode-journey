@@ -1,7 +1,11 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        maps = dict()
-        for i in range(len(nums)):
-            if target - nums[i] in maps:
-                return [maps[target - nums[i]], i]
-            maps[nums[i]] = i
+        logs = {}
+        l = len(nums)
+        for ind in range(l):
+            need = target - nums[ind]
+            if(need not in logs.keys()):
+                logs[nums[ind]] = ind
+            else:
+                return [ind,logs[need]]
+        
