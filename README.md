@@ -133,6 +133,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0605-can-place-flowers](https://github.com/Ganesh96/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Ganesh96/leetcode-journey/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2475-largest-palindromic-number](https://github.com/Ganesh96/leetcode-journey/tree/master/2475-largest-palindromic-number) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/Ganesh96/leetcode-journey/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 ## Counting
@@ -165,6 +166,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ganesh96/leetcode-journey/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ganesh96/leetcode-journey/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1894-merge-strings-alternately](https://github.com/Ganesh96/leetcode-journey/tree/master/1894-merge-strings-alternately) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Ganesh96/leetcode-journey/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2475-largest-palindromic-number](https://github.com/Ganesh96/leetcode-journey/tree/master/2475-largest-palindromic-number) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/Ganesh96/leetcode-journey/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 ## Tree
@@ -242,6 +244,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ganesh96/leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Ganesh96/leetcode-journey/tree/master/0338-counting-bits) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Ganesh96/leetcode-journey/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Queue
 |  |
 | ------- |
