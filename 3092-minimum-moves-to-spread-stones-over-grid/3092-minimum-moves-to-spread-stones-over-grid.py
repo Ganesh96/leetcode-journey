@@ -2,36 +2,32 @@ from typing import List
 
 class Solution:
     def minimumMoves(self, grid: List[List[int]]) -> int:
-        """
-        Calculates the minimum moves to spread stones over a grid.
-        """
-        def solve(grid, zeros, extras, curr_index):
-            if curr_index == len(zeros):
+        zeroes, extras = [],[]
+
+        def compute(grid,zeroes,extras,zeroes_index)->int:
+            L = len(extras)
+            O = len(zeroes)
+            if zeroes_index==O:
                 return 0
+            x,y = zeroes[zeroes_index]
+            dist = 10**7
+            for extra_index in range(L):
+                dx,dy = extras[extra_index]
+                if grid[dx][dy]>1:
+                    grid[dx][dy]-=1
+                    grid[x][y]=1
+                    dist = min(dist, (abs(x-dx)+abs(y-dy)+compute(grid,zeroes,extras,zeroes_index+1)))
+                    grid[dx][dy]+=1
+                    grid[x][y]=0
+            return dist
 
-            curr_zero_x, curr_zero_y = zeros[curr_index]
-            ans = 1000000
-            for i in range(len(extras)):
-                curr_x, curr_y = extras[i]
-                if grid[curr_x][curr_y] > 1:
-                    # Do
-                    grid[curr_x][curr_y] -= 1
-                    grid[curr_zero_x][curr_zero_y] = 1
-                    ans = min(ans, abs(curr_zero_x - curr_x) + abs(curr_zero_y - curr_y) +
-                              solve(grid, zeros, extras, curr_index + 1))
 
-                    # Undo
-                    grid[curr_x][curr_y] += 1
-                    grid[curr_zero_x][curr_zero_y] = 0
-            return ans
-
-        zeros = []
-        extras = []
-        for i in range(3):
-            for j in range(3):
-                if grid[i][j] == 0:
-                    zeros.append((i, j))
-                elif grid[i][j] > 1:
-                    extras.append((i, j))
-
-        return solve(grid, zeros, extras, 0)
+        for i in (0,1,2):
+            for j in (0,1,2):
+                if grid[i][j]==0:
+                    zeroes.append((i,j))
+                elif grid[i][j]>1:
+                    extras.append((i,j))
+        
+        zeroes_index = 0
+        return compute(grid,zeroes,extras,zeroes_index)
