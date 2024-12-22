@@ -28,6 +28,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [1833-find-the-highest-altitude](https://github.com/Ganesh96/leetcode-journey/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Ganesh96/leetcode-journey/tree/master/2102-find-the-middle-index-in-array) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Ganesh96/leetcode-journey/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/Ganesh96/leetcode-journey/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Ganesh96/leetcode-journey/tree/master/0207-course-schedule) |
 | [0617-merge-two-binary-trees](https://github.com/Ganesh96/leetcode-journey/tree/master/0617-merge-two-binary-trees) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/Ganesh96/leetcode-journey/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Graph
 |  |
 | ------- |
@@ -245,6 +247,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ganesh96/leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Ganesh96/leetcode-journey/tree/master/0338-counting-bits) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Ganesh96/leetcode-journey/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/Ganesh96/leetcode-journey/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Queue
 |  |
 | ------- |
@@ -276,6 +279,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0048-rotate-image](https://github.com/Ganesh96/leetcode-journey/tree/master/0048-rotate-image) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Ganesh96/leetcode-journey/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/Ganesh96/leetcode-journey/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Simulation
 |  |
 | ------- |
