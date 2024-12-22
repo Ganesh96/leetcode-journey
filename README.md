@@ -23,6 +23,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [1014-k-closest-points-to-origin](https://github.com/Ganesh96/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Ganesh96/leetcode-journey/tree/master/1319-unique-number-of-occurrences) |
+| [1331-path-with-maximum-gold](https://github.com/Ganesh96/leetcode-journey/tree/master/1331-path-with-maximum-gold) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Ganesh96/leetcode-journey/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ganesh96/leetcode-journey/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/Ganesh96/leetcode-journey/tree/master/1833-find-the-highest-altitude) |
@@ -284,10 +285,15 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ganesh96/leetcode-journey/tree/master/0048-rotate-image) |
+| [1331-path-with-maximum-gold](https://github.com/Ganesh96/leetcode-journey/tree/master/1331-path-with-maximum-gold) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Ganesh96/leetcode-journey/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/Ganesh96/leetcode-journey/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Simulation
 |  |
 | ------- |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Ganesh96/leetcode-journey/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
+## Backtracking
+|  |
+| ------- |
+| [1331-path-with-maximum-gold](https://github.com/Ganesh96/leetcode-journey/tree/master/1331-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
