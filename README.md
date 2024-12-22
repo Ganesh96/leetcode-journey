@@ -74,6 +74,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/Ganesh96/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
+| [1304-longest-happy-string](https://github.com/Ganesh96/leetcode-journey/tree/master/1304-longest-happy-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -135,6 +136,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0605-can-place-flowers](https://github.com/Ganesh96/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
+| [1304-longest-happy-string](https://github.com/Ganesh96/leetcode-journey/tree/master/1304-longest-happy-string) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Ganesh96/leetcode-journey/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2475-largest-palindromic-number](https://github.com/Ganesh96/leetcode-journey/tree/master/2475-largest-palindromic-number) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/Ganesh96/leetcode-journey/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
@@ -166,6 +168,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0567-permutation-in-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ganesh96/leetcode-journey/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1304-longest-happy-string](https://github.com/Ganesh96/leetcode-journey/tree/master/1304-longest-happy-string) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ganesh96/leetcode-journey/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1894-merge-strings-alternately](https://github.com/Ganesh96/leetcode-journey/tree/master/1894-merge-strings-alternately) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Ganesh96/leetcode-journey/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
