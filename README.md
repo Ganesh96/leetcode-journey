@@ -29,6 +29,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [1392-find-the-difference-of-two-arrays](https://github.com/Ganesh96/leetcode-journey/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ganesh96/leetcode-journey/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/Ganesh96/leetcode-journey/tree/master/1833-find-the-highest-altitude) |
+| [2058-concatenation-of-array](https://github.com/Ganesh96/leetcode-journey/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Ganesh96/leetcode-journey/tree/master/2102-find-the-middle-index-in-array) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Ganesh96/leetcode-journey/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/Ganesh96/leetcode-journey/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
@@ -296,6 +297,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/Ganesh96/leetcode-journey/tree/master/2058-concatenation-of-array) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Ganesh96/leetcode-journey/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 ## Backtracking
 |  |
