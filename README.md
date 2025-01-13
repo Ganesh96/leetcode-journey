@@ -99,6 +99,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0567-permutation-in-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
+| [1297-maximum-number-of-balloons](https://github.com/Ganesh96/leetcode-journey/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Ganesh96/leetcode-journey/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Ganesh96/leetcode-journey/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2475-largest-palindromic-number](https://github.com/Ganesh96/leetcode-journey/tree/master/2475-largest-palindromic-number) |
@@ -153,6 +154,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0169-majority-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
+| [1297-maximum-number-of-balloons](https://github.com/Ganesh96/leetcode-journey/tree/master/1297-maximum-number-of-balloons) |
 | [2475-largest-palindromic-number](https://github.com/Ganesh96/leetcode-journey/tree/master/2475-largest-palindromic-number) |
 ## Linked List
 |  |
@@ -175,6 +177,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0567-permutation-in-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ganesh96/leetcode-journey/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1297-maximum-number-of-balloons](https://github.com/Ganesh96/leetcode-journey/tree/master/1297-maximum-number-of-balloons) |
 | [1304-longest-happy-string](https://github.com/Ganesh96/leetcode-journey/tree/master/1304-longest-happy-string) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ganesh96/leetcode-journey/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1894-merge-strings-alternately](https://github.com/Ganesh96/leetcode-journey/tree/master/1894-merge-strings-alternately) |
