@@ -22,6 +22,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0605-can-place-flowers](https://github.com/Ganesh96/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0907-koko-eating-bananas](https://github.com/Ganesh96/leetcode-journey/tree/master/0907-koko-eating-bananas) |
+| [0941-sort-array-by-parity](https://github.com/Ganesh96/leetcode-journey/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/Ganesh96/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Ganesh96/leetcode-journey/tree/master/1319-unique-number-of-occurrences) |
@@ -69,6 +70,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0169-majority-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
+| [0941-sort-array-by-parity](https://github.com/Ganesh96/leetcode-journey/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/Ganesh96/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/1019-squares-of-a-sorted-array) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/Ganesh96/leetcode-journey/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
@@ -228,6 +230,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0151-reverse-words-in-a-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0567-permutation-in-string) |
+| [0941-sort-array-by-parity](https://github.com/Ganesh96/leetcode-journey/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Ganesh96/leetcode-journey/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
