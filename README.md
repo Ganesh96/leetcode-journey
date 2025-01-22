@@ -34,6 +34,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [2058-concatenation-of-array](https://github.com/Ganesh96/leetcode-journey/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Ganesh96/leetcode-journey/tree/master/2102-find-the-middle-index-in-array) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Ganesh96/leetcode-journey/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Ganesh96/leetcode-journey/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/Ganesh96/leetcode-journey/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Binary Search
 |  |
@@ -186,6 +187,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ganesh96/leetcode-journey/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1894-merge-strings-alternately](https://github.com/Ganesh96/leetcode-journey/tree/master/1894-merge-strings-alternately) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Ganesh96/leetcode-journey/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Ganesh96/leetcode-journey/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2475-largest-palindromic-number](https://github.com/Ganesh96/leetcode-journey/tree/master/2475-largest-palindromic-number) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/Ganesh96/leetcode-journey/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 ## Tree
@@ -236,6 +238,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0958-sort-array-by-parity-ii](https://github.com/Ganesh96/leetcode-journey/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Ganesh96/leetcode-journey/tree/master/1894-merge-strings-alternately) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Ganesh96/leetcode-journey/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
