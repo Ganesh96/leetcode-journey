@@ -7,6 +7,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Ganesh96/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ganesh96/leetcode-journey/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Ganesh96/leetcode-journey/tree/master/0041-first-missing-positive) |
@@ -69,6 +70,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
@@ -231,6 +233,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Ganesh96/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0345-reverse-vowels-of-a-string) |
