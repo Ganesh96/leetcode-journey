@@ -22,6 +22,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0540-single-element-in-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Ganesh96/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
+| [0724-find-pivot-index](https://github.com/Ganesh96/leetcode-journey/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/Ganesh96/leetcode-journey/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Ganesh96/leetcode-journey/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ganesh96/leetcode-journey/tree/master/0958-sort-array-by-parity-ii) |
@@ -261,6 +262,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ganesh96/leetcode-journey/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Ganesh96/leetcode-journey/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Ganesh96/leetcode-journey/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Ganesh96/leetcode-journey/tree/master/2102-find-the-middle-index-in-array) |
 ## Bit Manipulation
