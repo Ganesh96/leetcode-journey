@@ -8,6 +8,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0001-two-sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ganesh96/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ganesh96/leetcode-journey/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Ganesh96/leetcode-journey/tree/master/0041-first-missing-positive) |
@@ -239,6 +240,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ganesh96/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
