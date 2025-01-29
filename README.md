@@ -12,6 +12,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0036-valid-sudoku](https://github.com/Ganesh96/leetcode-journey/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Ganesh96/leetcode-journey/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Ganesh96/leetcode-journey/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ganesh96/leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh96/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ganesh96/leetcode-journey/tree/master/0136-single-number) |
@@ -73,6 +74,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
@@ -237,6 +239,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ganesh96/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0345-reverse-vowels-of-a-string) |
