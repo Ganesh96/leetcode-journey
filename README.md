@@ -25,6 +25,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0540-single-element-in-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Ganesh96/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
+| [0682-baseball-game](https://github.com/Ganesh96/leetcode-journey/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Ganesh96/leetcode-journey/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/Ganesh96/leetcode-journey/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Ganesh96/leetcode-journey/tree/master/0907-koko-eating-bananas) |
@@ -315,6 +316,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0145-binary-tree-postorder-traversal](https://github.com/Ganesh96/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Ganesh96/leetcode-journey/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/Ganesh96/leetcode-journey/tree/master/0682-baseball-game) |
 ## Matrix
 |  |
 | ------- |
@@ -326,6 +328,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Ganesh96/leetcode-journey/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/Ganesh96/leetcode-journey/tree/master/2058-concatenation-of-array) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/Ganesh96/leetcode-journey/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 ## Backtracking
