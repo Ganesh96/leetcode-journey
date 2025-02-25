@@ -134,6 +134,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0207-course-schedule](https://github.com/Ganesh96/leetcode-journey/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0545-boundary-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Ganesh96/leetcode-journey/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Ganesh96/leetcode-journey/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/Ganesh96/leetcode-journey/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
@@ -141,12 +142,14 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ganesh96/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Ganesh96/leetcode-journey/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Ganesh96/leetcode-journey/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Ganesh96/leetcode-journey/tree/master/0617-merge-two-binary-trees) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/Ganesh96/leetcode-journey/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ganesh96/leetcode-journey/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Ganesh96/leetcode-journey/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
@@ -240,6 +243,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh96/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Ganesh96/leetcode-journey/tree/master/0547-number-of-provinces) |
 ## Two Pointers
 |  |
 | ------- |
