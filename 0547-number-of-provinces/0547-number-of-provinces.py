@@ -1,33 +1,34 @@
-class DSU:
-    def __init__(self, size):
-        self.parent = list(range(size))
-        self.rank = [1] * size
-        self.count = size  # Number of connected components
-    
-    def find(self, x):
-        if self.parent[x] != x:
-            self.parent[x] = self.find(self.parent[x])  # Path compression
-        return self.parent[x]
-    
-    def union(self, x, y):
-        x_root = self.find(x)
-        y_root = self.find(y)
-        if x_root == y_root:
-            return  # Already connected
-        # Union by rank
-        if self.rank[x_root] < self.rank[y_root]:
-            self.parent[x_root] = y_root
-        else:
-            self.parent[y_root] = x_root
-            if self.rank[x_root] == self.rank[y_root]:
-                self.rank[x_root] += 1
-        self.count -= 1  # Decrement count as two components merge
 class Solution:
-    def findCircleNum(self,isConnected):
+    def findCircleNum(self, isConnected: List[List[int]]) -> int:
         n = len(isConnected)
-        dsu = DSU(n)
+        edge_list = []
         for i in range(n):
-            for j in range(i + 1, n):  # Avoid duplicate checks by using i+1
-                if isConnected[i][j]:
-                    dsu.union(i, j)
-        return dsu.count
+            for j in range(i + 1, n):
+                if isConnected[i][j] == 1:
+                    edge_list.append((i, j))
+        par = [i for i in range(n)]
+        rank = [1] * n
+        
+        def find(n1):
+            res = n1
+            while res!= par[res]:
+                par[res]=par[par[res]]
+                res = par[res]
+            return res
+        
+        def union(n1,n2):
+            p1,p2 = find(n1),find(n2)
+            if p1==p2:
+                return 0
+            if rank[p2] > rank[p1]:
+                par[p1] = p2
+                rank[p2] +=rank[p1]
+            else:
+                par[p2] = p1
+                rank[p1]+=rank[p2]
+            return 1
+        
+        provinces = n
+        for n1,n2 in edge_list:
+            provinces-=union(n1,n2)
+        return provinces
