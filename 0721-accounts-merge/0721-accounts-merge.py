@@ -33,7 +33,7 @@ class Solution:
         for i, (name, *emails) in enumerate(accounts):
             for email in emails:
                 if email in email_to_owner:
-                    print(email_to_owner)
+                    # print(email_to_owner)
                     union(i, email_to_owner[email])
                 email_to_owner[email] = i
 
