@@ -1,16 +1,20 @@
 class Solution:
     def numKLenSubstrNoRepeats(self, s: str, k: int) -> int:
-        L = len(s)
-        if L < k:
+        if len(s) < k:
             return 0
-        elif L == k:
-            return 1
-        else:
-            count = 0
-            left, right = 0,k-1
-            while(right<L-1):
-                if s[left:right] != s[left+1:right+1]:
-                    count+=1
-                left+=1
-                right+=1
-        return count//2
+        seen = set()
+        count = 0
+        left = 0
+
+        for right in range(len(s)):
+            while s[right] in seen:
+                seen.remove(s[left])
+                left += 1
+
+            seen.add(s[right])
+
+            if right - left + 1 == k:
+                count += 1
+                seen.remove(s[left])
+                left += 1
+        return count
