@@ -1,22 +1,19 @@
 class Solution:
     def areAlmostEqual(self, s1: str, s2: str) -> bool:
-        if s1==s2:
+        if s1 == s2:
             return True
-        if len(s1)!=len(s2):
+        if len(s1) != len(s2):
             return False
-        log = set()
-        c = 2
-        index, L = 0, len(s1)
-        while(index<L):
-            if(s1[index]!=s2[index]):
-                log.add(index)
-                c-=1
-            index+=1
-        if c == 2:
-            return True
-        if c == 0:
-            one = log.pop()
-            two = log.pop()
-            return True if  and s1[one] == s2[two] and s1[two]==s2[one] else False
-        return False
-                
+        
+        differences = []
+        for i in range(len(s1)):
+            if s1[i] != s2[i]:
+                differences.append(i)
+                if len(differences) > 2:
+                    return False
+        
+        if len(differences) != 2:
+            return False
+        
+        i, j = differences
+        return s1[i] == s2[j] and s1[j] == s2[i]
