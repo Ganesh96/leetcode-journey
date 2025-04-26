@@ -1,10 +1,11 @@
 class Solution:
     def uniqueOccurrences(self, arr: List[int]) -> bool:
-        occ = dict()
-        res = set()
-        for num in arr:
-            occ[num] = occ.get(num,0) + 1
-        for k,v in occ.items():
-            if v not in res:
-                res.add(v)
-        return len(occ.keys()) == len(res)
+        f = dict()
+        t = set()
+        for i in arr:
+            f[i] = f.get(i,0) + 1
+        for k,v in f.items():
+            if v in t:
+                return False
+            t.add(v)
+        return True
