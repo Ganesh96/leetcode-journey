@@ -2,8 +2,10 @@ class Solution:
     def findValidPair(self, s: str) -> str:
         freq = {}
         for i in s:
-            freq[i] = freq.get(i,0) + 1
-            
+            if i not in freq:
+                freq[i] = 1
+            else:
+                freq[i] += 1
         for i in range(len(s) - 1):
             first = s[i]
             second = s[i + 1]
