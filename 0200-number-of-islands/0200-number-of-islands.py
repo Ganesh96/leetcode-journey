@@ -1,45 +1,25 @@
 class Solution:
-    def numIslands(self,grid):
+    def numIslands(self, grid: list[list[str]]) -> int:
         if not grid:
             return 0
-
         rows, cols = len(grid), len(grid[0])
-        par = {}
-        rank = {}
-        count = 0
+        island_count = 0
 
-        for i in range(rows):
-            for j in range(cols):
-                if grid[i][j] == '1':
-                    par[(i, j)] = (i, j)
-                    rank[(i, j)] = 1
-                    count += 1
+        def dfs_sink(r, c):
+            is_out_of_bounds = r < 0 or r >= rows or c < 0 or c >= cols
+            if is_out_of_bounds or grid[r][c] == '0':
+                return
+            
+            grid[r][c] = '0'            
+            dfs_sink(r + 1, c)  # Down
+            dfs_sink(r - 1, c)  # Up
+            dfs_sink(r, c + 1)  # Right
+            dfs_sink(r, c - 1)  # Left
 
-        def find(n1):
-            res = n1
-            while res != par[res]:
-                par[res] = par[par[res]]
-                res = par[res]
-            return res
-
-        def union(n1, n2):
-            p1, p2 = find(n1), find(n2)
-            if p1 == p2:
-                return 0
-            if rank[p2] > rank[p1]:
-                par[p1] = p2
-                rank[p2] += rank[p1]
-            else:
-                par[p2] = p1
-                rank[p1] += rank[p2]
-            return 1
-
-        for i in range(rows):
-            for j in range(cols):
-                if grid[i][j] == '1':
-                    for x, y in [(i-1, j), (i+1, j), (i, j-1), (i, j+1)]:
-                        if 0 <= x < rows and 0 <= y < cols and grid[x][y] == '1':
-                            if union((i, j), (x, y)):
-                                count -= 1
-
-        return count
+        for r in range(rows):
+            for c in range(cols):
+                if grid[r][c] == '1':
+                    island_count += 1
+                    dfs_sink(r, c)
+        
+        return island_count
