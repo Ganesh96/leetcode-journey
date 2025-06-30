@@ -17,13 +17,11 @@ class Solution:
             if (num - 1) not in num_set:
             
                 # If we found a starting point, initialize variables for this sequence.
-                current_num = num
                 current_streak = 1
                 
                 # Step 3b: Use a while loop to count the length of this sequence.
                 # Keep checking for the next consecutive number in the set.
-                while (current_num + 1) in num_set:
-                    current_num += 1
+                while (num + current_streak) in num_set:
                     current_streak += 1
                 
                 # Step 3c: Once the sequence is finished, update our overall longest streak.
