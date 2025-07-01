@@ -18,9 +18,7 @@ class Solution:
                 
                 # Pop the bar from the stack. We now calculate the max area
                 # for this popped bar.
-                popped_height = stack[-1][1]
-                popped_index = stack[-1][0]
-                stack.pop()
+                popped_index, popped_height = stack.pop()
                 
                 # Determine the width for the popped bar.
                 # Its right boundary is the current index `i`.
