@@ -25,7 +25,7 @@ class Solution:
                 # Its left boundary is the index of the element that is now at the
                 # top of the stack. If the stack is empty, it means the popped bar
                 # extended all the way to the beginning.
-                left_boundary = stack[-1][0] if stack else -1
+                left_boundary = popped_index-1 if stack else -1
                 width = i - left_boundary - 1
                 
                 # Update the max area.
