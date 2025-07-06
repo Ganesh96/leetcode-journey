@@ -1,62 +1,47 @@
 class Solution:
-    def largestIsland(self, grid: List[List[int]]) -> int:
-        n = len(grid)
-        parent = [i for i in range(n*n)]
-        rank = [1 for i in range(n*n)]
+    def largestIsland(self, grid: list[list[int]]) -> int:
+        N = len(grid)
 
-        def find(r):
-            while(r!=parent[r]):
-                parent[r] = parent[parent[r]]
-                r = parent[r]
-            return r
+        def get_neighbors(r, c):
+            """Helper to get valid neighbors within the grid."""
+            for dr, dc in [(1, 0), (-1, 0), (0, 1), (0, -1)]:
+                nr, nc = r + dr, c + dc
+                if 0 <= nr < N and 0 <= nc < N:
+                    yield nr, nc
         
-        def union(x,y):
-            root_x = find(x)
-            root_y = find(y)
-            if root_x == root_y:
-                return
-            if rank[root_x]>= rank[root_y]:
-                parent[root_y] = root_x
-                rank[root_x]+=rank[root_y]
-            else:
-                parent[root_x] = root_y
-                rank[root_y]+=rank[root_x]
-        
-        grid_map = dict()
-        directions = [(-1,0),(0,-1),(1,0),(0,1)]
-        for r in range(n):
-            for c in range(n):
-                if grid[r][c]==1:
-                    for dx,dy in directions:
-                        dr = dx+r
-                        dc = dy+c
-                        if 0<=dr<n and 0<=dc<n and grid[dr][dc]==1:
-                            union(r*n+c,dr*n+dc)
-        
-        for r in range(n):
-            for c in range(n):
-                if grid[r][c]==1:
-                    root = find(r*n+c)
-                    grid_map[root] = rank[root]
-        
-        max_area = max(grid_map.values(), default=0)
+        def dfs_paint_and_measure(r, c, island_id):
+            """Paints an island with its ID and returns its area."""
+            if not (0 <= r < N and 0 <= c < N and grid[r][c] == 1):
+                return 0
+            
+            grid[r][c] = island_id
+            area = 1
+            for nr, nc in get_neighbors(r, c):
+                area += dfs_paint_and_measure(nr, nc, island_id)
+            return area
 
-        for r in range(n):
-            for c in range(n):
-                if grid[r][c]==0:
-                    visited = set()
-                    area = 1
-                    for dx,dy in directions:
-                        dr = dx+r
-                        dc = dy+c
-                        if 0<=dr<n and 0<=dc<n and grid[dr][dc]==1:
-                            root = find(dr*n+dc)
-                            if root not in visited:
-                                visited.add(root)
-                                area+=rank[root]
-                    max_area = max(max_area,area)
-        if max_area > 0:
-            return max_area
-        else:
-            return n*n
+        # --- Pass 1: Find, paint, and measure all islands ---
+        island_id = 2  # Start IDs at 2 since 0 and 1 are used.
+        island_areas = {0: 0} # map island_id -> area
+        for r in range(N):
+            for c in range(N):
+                if grid[r][c] == 1:
+                    area = dfs_paint_and_measure(r, c, island_id)
+                    island_areas[island_id] = area
+                    island_id += 1
 
+        # The max_area is initially the largest existing island, or 0 if no islands exist.
+        max_area = max(island_areas.values())
+
+        # --- Pass 2: Check all water cells ---
+        for r in range(N):
+            for c in range(N):
+                if grid[r][c] == 0:
+                    neighbor_islands = set(grid[nr][nc] for nr, nc in get_neighbors(r, c))
+                    potential_area = 1 + sum(island_areas[iid] for iid in neighbor_islands)
+                    max_area = max(max_area, potential_area)
+        
+        # If max_area is 0 at the end, it means the grid was all 0s.
+        # But we can flip one 0 to a 1, so the answer is 1 (if n>0).
+        # If the grid was all 1s, max_area would be n*n, which is correct.
+        return max_area if max_area > 0 else 1
