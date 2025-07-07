@@ -8,7 +8,7 @@ class Solution:
         # For a pair [a, b], the edge is b -> a.
         graph = collections.defaultdict(list)
         for course, prereq in prerequisites:
-            graph[prereq].append(course)
+            graph[course].append(prereq)
 
         # Step 2: Create sets to track the state of each node.
         # `visiting`: Tracks nodes in the current DFS path to detect cycles.
