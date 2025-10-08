@@ -6,10 +6,9 @@ class Solution:
         hole = 0
 
         for i, num in enumerate(nums):
-            if num!=0 and hole!=i:
-                nums[hole] = num
+            if num!=0:
+                if hole!=i:
+                    nums[hole] = num
+                    nums[i] = 0
                 hole+=1
-
-        for i in range(hole,len(nums)):
-            nums[i] = 0
-        return nums        
+        return nums
