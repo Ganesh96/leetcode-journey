@@ -1,32 +1,33 @@
-import collections
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        preMap = defaultdict(list)
+        prereq_list = {i:[] for i in range(numCourses)}
 
-        for course, prereq in prerequisites:
-            preMap[course].append(prereq)
+        for a,b in prerequisites:
+            prereq_list[a].append(b)
         
         visiting = set()
-        res = [0]
+        res = []
 
-        def dfs(crs):
-            if crs in visiting:
+        def dfs(course):
+            if course in visiting:
                 return False
             
-            if preMap[crs]==[]:
+            if course not in prereq_list:
                 return True
-            visiting.add(crs)
 
-            for neighbour in preMap[crs]:
-                if not dfs(neighbour):
+            visiting.add(course)
+
+            for prereq in prereq_list[course]:
+                if dfs(prereq)==False:
                     return False
-            
-            visiting.remove(crs)
-            res.append(crs)
-            preMap[crs] = []
+
+            visiting.remove(course)
+            res.append(course)
+            del prereq_list[course]
             return True
         
-        for crs in range(numCourses):
-            if not dfs(crs):
+        for course in range(numCourses):
+            if dfs(course)==False:
                 return []
+        
         return res
