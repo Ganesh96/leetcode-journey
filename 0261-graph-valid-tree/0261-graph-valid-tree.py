@@ -1,27 +1,21 @@
 class Solution:
     def validTree(self, n: int, edges: List[List[int]]) -> bool:
-        if(len(edges)!=n-1):
-            return False
-        adj_list = dict()
+        parent = [i for i in range(n)]
         visit = set()
 
-        for a,b in edges:
-            if a in adj_list:
-                adj_list[a].append(b)
-            else:
-                adj_list[a] = [b]
-            if b in adj_list:
-                adj_list[b].append(a)
-            else:
-                adj_list[b] = [a]
-
-        def dfs(N,status):
-            if N in visit:
-                return False
-            visit.add(N)
-            for neighbor in adj_list[N]:
-                print(visit)
-                status = status and dfs(neighbor,status)
-            return True
+        def find(u):
+            while parent[u]!=u:
+                parent[u] = parent[parent[u]]
+                u = parent[u]
+            return u
         
-        return dfs(0,True)
+        for a,b in edges:
+            U = find(a)
+            V = find(b)
+            if U==V:
+                return False
+            parent[V] = U
+        
+        for i in range(n):
+            visit.add(find(i))
+        return len(visit)==1
