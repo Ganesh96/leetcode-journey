@@ -1,7 +1,7 @@
 class Solution:
     def numSub(self, s: str) -> int:
         total_count = current_length = 0
-        MOD = 10^9 + 7
+        MOD = 10**9 + 7
         i = 0
         N = len(s)
         while(i<N):
@@ -9,4 +9,16 @@ class Solution:
             total_count = (total_count + current_length) % MOD
             i+=1
         return total_count
+
+        # MOD = 10**9 + 7
+        # total_count = current_length = 0
+        
+        # for char in s:
+        #     if char == '1':
+        #         current_length += 1
+        #         total_count = (total_count + current_length) % MOD
             
+        #     else:
+        #         current_length = 0
+                
+        # return total_count
