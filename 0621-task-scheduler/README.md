@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/task-scheduler">621. Task Scheduler</a></h2><h3>Medium</h3><hr><p>You are given an array of CPU <code>tasks</code>, each labeled with a letter from A to Z, and a number <code>n</code>. Each CPU interval can be idle or allow the completion of one task. Tasks can be completed in any order, but there&#39;s a constraint: there has to be a gap of <strong>at least</strong> <code>n</code> intervals between two tasks with the same label.</p>
+<h2><a href="https://leetcode.com/problems/task-scheduler/description/?envType=problem-list-v2&envId=2o32l7i7">621. Task Scheduler</a></h2><h3>Medium</h3><hr><p>You are given an array of CPU <code>tasks</code>, each labeled with a letter from A to Z, and a number <code>n</code>. Each CPU interval can be idle or allow the completion of one task. Tasks can be completed in any order, but there&#39;s a constraint: there has to be a gap of <strong>at least</strong> <code>n</code> intervals between two tasks with the same label.</p>
 
 <p>Return the <strong>minimum</strong> number of CPU intervals required to complete all tasks.</p>
 
