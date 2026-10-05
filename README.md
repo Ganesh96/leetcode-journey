@@ -81,6 +81,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0088-merge-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ganesh96/leetcode-journey/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Ganesh96/leetcode-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
 | [0941-sort-array-by-parity](https://github.com/Ganesh96/leetcode-journey/tree/master/0941-sort-array-by-parity) |
@@ -112,6 +113,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0146-lru-cache](https://github.com/Ganesh96/leetcode-journey/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ganesh96/leetcode-journey/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Ganesh96/leetcode-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ganesh96/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0567-permutation-in-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
@@ -193,6 +195,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0020-valid-parentheses](https://github.com/Ganesh96/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ganesh96/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Ganesh96/leetcode-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0271-encode-and-decode-strings](https://github.com/Ganesh96/leetcode-journey/tree/master/0271-encode-and-decode-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0394-decode-string) |
