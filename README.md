@@ -18,6 +18,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh96/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ganesh96/leetcode-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Ganesh96/leetcode-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Ganesh96/leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/Ganesh96/leetcode-journey/tree/master/0271-encode-and-decode-strings) |
 | [0346-moving-average-from-data-stream](https://github.com/Ganesh96/leetcode-journey/tree/master/0346-moving-average-from-data-stream) |
@@ -79,6 +80,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0015-3sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Ganesh96/leetcode-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
 | [0941-sort-array-by-parity](https://github.com/Ganesh96/leetcode-journey/tree/master/0941-sort-array-by-parity) |
@@ -109,6 +111,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0138-copy-list-with-random-pointer](https://github.com/Ganesh96/leetcode-journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Ganesh96/leetcode-journey/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Ganesh96/leetcode-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ganesh96/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0567-permutation-in-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
