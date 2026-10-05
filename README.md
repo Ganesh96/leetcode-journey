@@ -34,6 +34,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0958-sort-array-by-parity-ii](https://github.com/Ganesh96/leetcode-journey/tree/master/0958-sort-array-by-parity-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/Ganesh96/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/1019-squares-of-a-sorted-array) |
+| [1099-two-sum-less-than-k](https://github.com/Ganesh96/leetcode-journey/tree/main/1099-two-sum-less-than-k/) | Easy |
 | [1319-unique-number-of-occurrences](https://github.com/Ganesh96/leetcode-journey/tree/master/1319-unique-number-of-occurrences) |
 | [1331-path-with-maximum-gold](https://github.com/Ganesh96/leetcode-journey/tree/master/1331-path-with-maximum-gold) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Ganesh96/leetcode-journey/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -53,6 +54,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0374-guess-number-higher-or-lower](https://github.com/Ganesh96/leetcode-journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Ganesh96/leetcode-journey/tree/master/0907-koko-eating-bananas) |
+| [1099-two-sum-less-than-k](https://github.com/Ganesh96/leetcode-journey/tree/main/1099-two-sum-less-than-k/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +90,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0958-sort-array-by-parity-ii](https://github.com/Ganesh96/leetcode-journey/tree/master/0958-sort-array-by-parity-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/Ganesh96/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/1019-squares-of-a-sorted-array) |
+| [1099-two-sum-less-than-k](https://github.com/Ganesh96/leetcode-journey/tree/main/1099-two-sum-less-than-k/) | Easy |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/Ganesh96/leetcode-journey/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -263,6 +266,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0941-sort-array-by-parity](https://github.com/Ganesh96/leetcode-journey/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ganesh96/leetcode-journey/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/1019-squares-of-a-sorted-array) |
+| [1099-two-sum-less-than-k](https://github.com/Ganesh96/leetcode-journey/tree/main/1099-two-sum-less-than-k/) | Easy |
 | [1894-merge-strings-alternately](https://github.com/Ganesh96/leetcode-journey/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ganesh96/leetcode-journey/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sliding Window
