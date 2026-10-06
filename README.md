@@ -13,6 +13,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0036-valid-sudoku](https://github.com/Ganesh96/leetcode-journey/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Ganesh96/leetcode-journey/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Ganesh96/leetcode-journey/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Ganesh96/leetcode-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ganesh96/leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh96/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
@@ -80,6 +81,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Ganesh96/leetcode-journey/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Ganesh96/leetcode-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ganesh96/leetcode-journey/tree/main/0217-contains-duplicate/) | Easy |
@@ -111,6 +113,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0013-roman-to-integer](https://github.com/Ganesh96/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Ganesh96/leetcode-journey/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Ganesh96/leetcode-journey/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Ganesh96/leetcode-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh96/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ganesh96/leetcode-journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Ganesh96/leetcode-journey/tree/master/0146-lru-cache) |
@@ -196,6 +199,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0012-integer-to-roman](https://github.com/Ganesh96/leetcode-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ganesh96/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Ganesh96/leetcode-journey/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Ganesh96/leetcode-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ganesh96/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ganesh96/leetcode-journey/tree/main/0242-valid-anagram/) | Easy |
