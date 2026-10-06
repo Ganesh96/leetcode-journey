@@ -6,7 +6,4 @@ class Solution:
             for letter in word:
                 freq[ord(letter)-ord('a')]+=1
             res[tuple(freq)].append(word)
-        result = list()
-        for _,v in res.items():
-            result.append(v)
-        return result
+        return list(res.values())
