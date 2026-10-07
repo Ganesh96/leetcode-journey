@@ -2,7 +2,7 @@ class Codec:
     def encode(self, strs: List[str]) -> str:
         """Encodes a list of strings to a single string.
         """
-        encoded = map(lambda word: f"{len(word)}:/{word}", strs)
+        encoded = map(lambda word: f"{len(word)}^/{word}", strs)
 
         return ''.join(encoded)
         
@@ -14,7 +14,7 @@ class Codec:
         i = 0
 
         while i < len(s):
-            delimiter_idx = s.find(':/', i)
+            delimiter_idx = s.find('^/', i)
 
             word_len = int(s[i:delimiter_idx])
             word_start = delimiter_idx + 2
