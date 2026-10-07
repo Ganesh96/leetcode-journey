@@ -354,4 +354,8 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1331-path-with-maximum-gold](https://github.com/Ganesh96/leetcode-journey/tree/master/1331-path-with-maximum-gold) |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ganesh96/leetcode-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
