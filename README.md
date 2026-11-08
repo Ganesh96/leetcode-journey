@@ -381,4 +381,8 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Ganesh96/leetcode-journey/tree/main/0486-predict-the-winner/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/Ganesh96/leetcode-journey/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
