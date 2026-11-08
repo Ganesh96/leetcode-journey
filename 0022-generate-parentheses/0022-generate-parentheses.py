@@ -1,16 +1,28 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        result = []
-        def backtrack(current, open_count,close_count):
+
+        combinations = []
+
+        def dfs(parenthesis, open_count, close_count):
+
             if open_count == n and close_count == n:
-                result.append(current)
+                combinations.append(parenthesis)
                 return
-            
+
             if open_count < n:
-                backtrack(current+"(", open_count + 1, close_count)
-            
+                dfs(
+                    parenthesis + "(",
+                    open_count + 1,
+                    close_count
+                )
+
             if close_count < open_count:
-                backtrack(current + ")", open_count, close_count+1)
-        
-        backtrack("",0,0)
-        return result
+                dfs(
+                    parenthesis + ")",
+                    open_count,
+                    close_count + 1
+                )
+
+        dfs("", 0, 0)
+
+        return combinations
