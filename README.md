@@ -199,6 +199,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0012-integer-to-roman](https://github.com/Ganesh96/leetcode-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ganesh96/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Ganesh96/leetcode-journey/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ganesh96/leetcode-journey/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Ganesh96/leetcode-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ganesh96/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
@@ -304,6 +305,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Ganesh96/leetcode-journey/tree/main/0022-generate-parentheses/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ganesh96/leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Ganesh96/leetcode-journey/tree/master/0338-counting-bits) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Ganesh96/leetcode-journey/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
@@ -353,9 +355,14 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Ganesh96/leetcode-journey/tree/main/0022-generate-parentheses/) | Medium |
 | [1331-path-with-maximum-gold](https://github.com/Ganesh96/leetcode-journey/tree/master/1331-path-with-maximum-gold) |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh96/leetcode-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Ganesh96/leetcode-journey/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
