@@ -24,6 +24,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0271-encode-and-decode-strings](https://github.com/Ganesh96/leetcode-journey/tree/master/0271-encode-and-decode-strings) |
 | [0346-moving-average-from-data-stream](https://github.com/Ganesh96/leetcode-journey/tree/master/0346-moving-average-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ganesh96/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/Ganesh96/leetcode-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ganesh96/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Ganesh96/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
@@ -66,6 +67,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0050-powx-n](https://github.com/Ganesh96/leetcode-journey/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Ganesh96/leetcode-journey/tree/master/0069-sqrtx) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ganesh96/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/Ganesh96/leetcode-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [1014-k-closest-points-to-origin](https://github.com/Ganesh96/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ganesh96/leetcode-journey/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Divide and Conquer
@@ -136,6 +138,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0050-powx-n](https://github.com/Ganesh96/leetcode-journey/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ganesh96/leetcode-journey/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Ganesh96/leetcode-journey/tree/main/0486-predict-the-winner/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +311,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0022-generate-parentheses](https://github.com/Ganesh96/leetcode-journey/tree/main/0022-generate-parentheses/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ganesh96/leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Ganesh96/leetcode-journey/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/Ganesh96/leetcode-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Ganesh96/leetcode-journey/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/Ganesh96/leetcode-journey/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Queue
@@ -365,4 +369,16 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Ganesh96/leetcode-journey/tree/main/0022-generate-parentheses/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Ganesh96/leetcode-journey/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Ganesh96/leetcode-journey/tree/main/0486-predict-the-winner/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Ganesh96/leetcode-journey/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
