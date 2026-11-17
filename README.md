@@ -31,6 +31,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0621-task-scheduler](https://github.com/Ganesh96/leetcode-journey/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Ganesh96/leetcode-journey/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Ganesh96/leetcode-journey/tree/master/0724-find-pivot-index) |
+| [0843-guess-the-word](https://github.com/Ganesh96/leetcode-journey/tree/main/0843-guess-the-word/) | Hard |
 | [0890-lemonade-change](https://github.com/Ganesh96/leetcode-journey/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Ganesh96/leetcode-journey/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Ganesh96/leetcode-journey/tree/master/0941-sort-array-by-parity) |
@@ -69,6 +70,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0069-sqrtx](https://github.com/Ganesh96/leetcode-journey/tree/master/0069-sqrtx) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ganesh96/leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Ganesh96/leetcode-journey/tree/main/0486-predict-the-winner/) | Medium |
+| [0843-guess-the-word](https://github.com/Ganesh96/leetcode-journey/tree/main/0843-guess-the-word/) | Hard |
 | [1014-k-closest-points-to-origin](https://github.com/Ganesh96/leetcode-journey/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ganesh96/leetcode-journey/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Divide and Conquer
@@ -215,6 +217,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0394-decode-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0778-reorganize-string) |
+| [0843-guess-the-word](https://github.com/Ganesh96/leetcode-journey/tree/main/0843-guess-the-word/) | Hard |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ganesh96/leetcode-journey/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/Ganesh96/leetcode-journey/tree/master/1297-maximum-number-of-balloons) |
 | [1304-longest-happy-string](https://github.com/Ganesh96/leetcode-journey/tree/master/1304-longest-happy-string) |
@@ -333,6 +336,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Ganesh96/leetcode-journey/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ganesh96/leetcode-journey/tree/master/0374-guess-number-higher-or-lower) |
+| [0843-guess-the-word](https://github.com/Ganesh96/leetcode-journey/tree/main/0843-guess-the-word/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,10 +381,12 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Ganesh96/leetcode-journey/tree/main/0486-predict-the-winner/) | Medium |
+| [0843-guess-the-word](https://github.com/Ganesh96/leetcode-journey/tree/main/0843-guess-the-word/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Ganesh96/leetcode-journey/tree/main/0486-predict-the-winner/) | Medium |
+| [0843-guess-the-word](https://github.com/Ganesh96/leetcode-journey/tree/main/0843-guess-the-word/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
