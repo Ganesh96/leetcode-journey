@@ -18,6 +18,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ganesh96/leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh96/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ganesh96/leetcode-journey/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Ganesh96/leetcode-journey/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ganesh96/leetcode-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Ganesh96/leetcode-journey/tree/master/0238-product-of-array-except-self) |
@@ -118,6 +119,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0049-group-anagrams](https://github.com/Ganesh96/leetcode-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Ganesh96/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ganesh96/leetcode-journey/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Ganesh96/leetcode-journey/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/Ganesh96/leetcode-journey/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Ganesh96/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ganesh96/leetcode-journey/tree/main/0217-contains-duplicate/) | Easy |
@@ -205,6 +207,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | [0022-generate-parentheses](https://github.com/Ganesh96/leetcode-journey/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Ganesh96/leetcode-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ganesh96/leetcode-journey/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Ganesh96/leetcode-journey/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Ganesh96/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ganesh96/leetcode-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0271-encode-and-decode-strings](https://github.com/Ganesh96/leetcode-journey/tree/master/0271-encode-and-decode-strings) |
@@ -310,6 +313,7 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Ganesh96/leetcode-journey/tree/main/0022-generate-parentheses/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ganesh96/leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Ganesh96/leetcode-journey/tree/main/0139-word-break/) | Medium |
 | [0338-counting-bits](https://github.com/Ganesh96/leetcode-journey/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Ganesh96/leetcode-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Ganesh96/leetcode-journey/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
@@ -385,4 +389,16 @@ To reach big tech, one must solve a few LeetCodes each day, for consistency pave
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Ganesh96/leetcode-journey/tree/main/1291-sequential-digits/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Ganesh96/leetcode-journey/tree/main/0139-word-break/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Ganesh96/leetcode-journey/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Ganesh96/leetcode-journey/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
